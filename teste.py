@@ -1,0 +1,8 @@
+num1 = int(input("Digite o primiro numero:" ))
+num2 = int(input("Digite o segundo numero:" ))
+#soma = int(num1)+int(num2)
+#print("Esses são os numeros", soma)
+print("soma",num1+num2)
+print("sub",num1-num2)
+print("multi",num1*num2)
+print("DIV",num1/num2)
